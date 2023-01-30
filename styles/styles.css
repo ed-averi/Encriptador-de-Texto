@@ -47,7 +47,7 @@ main{
 .mensaje{
     height: 630px;
     background: white;
-    background-image: url("/assets/young-man.png");
+    background-image: url("../assets/young-man.png");
     background-repeat: no-repeat;
     background-position: center;
     border: none;
